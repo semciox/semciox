@@ -4,9 +4,9 @@ Cześć! Nazywam się **semciox** i jestem osobą odpowiedzialną za prowadzenie
 
 ## 🔧 Moje główne projekty:
 
-- 🎯 **Właściciel** serwera **[WestHub.pl](https://westhub.pl)** – Jeden z kilku dużych serwerów FFa.
-- 🧱 **Developer** w **Hyperium** – Bardzo duży serwer Duels.
-- 🌐 **Developer** w **AverHub** – Jeden z kilku dużych serwerów FFa.
+- 🎯 **Właściciel** serwera **[WestHub.pl](https://dc.westhub.pl)** – Jeden z kilku dużych serwerów FFa.
+- 🧱 **Developer** serwera **[Hyperium.pl](https://dc.hyperium.pl)** – Bardzo duży serwer Duels.
+- 🌐 **Developer** serwera **[AverHUB.pl](https://dc.averhub.pl)** – Jeden z kilku dużych serwerów FFa.
 
 ## 🌍 Moja strona
 
@@ -15,4 +15,8 @@ Sprawdź więcej na mojej stronie:
 
 ## 📬 Kontakt
 
-- Discord: **semciox**
+- Discord: **[semciox](https://discord.com/users/657195990553460748)**
+
+## 🏆 Osiągniecia
+
+- Rekorda ilość graczy utrzymana na sieci 1 projektu **1287** osób
