@@ -6,7 +6,8 @@ Cześć! Nazywam się **semciox** i jestem osobą odpowiedzialną za prowadzenie
 
 - 🎯 **Właściciel** serwera **[WestHub.pl](https://dc.westhub.pl)** – Jeden z kilku dużych serwerów FFa.
 - 🧱 **Developer** serwera **[Hyperium.pl](https://dc.hyperium.pl)** – Bardzo duży serwer Duels.
-- 🌐 **Developer** serwera **[AverHUB.pl](https://dc.averhub.pl)** – Jeden z kilku dużych serwerów FFa.
+- 🌐 **Developer** serwera **[AverHub.pl](https://dc.averhub.pl)** – Jeden z kilku dużych serwerów FFa.
+- 🧒 **Developer** serwera **[AgePlay.pl](https://dc.ageplay.pl)** - Serwer początkujący FFa.
 
 ## 🌍 Moja strona
 
