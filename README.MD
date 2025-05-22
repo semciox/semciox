@@ -20,4 +20,4 @@ Sprawdź więcej na mojej stronie:
 
 ## 🏆 Osiągniecia
 
-- Rekorda ilość graczy utrzymana na sieci 1 projektu **1287** osób
+- Rekord ilości graczy utrzymanych na sieci 1 projektu **1287** osób
